@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Green Glamour
 
-Currently, two official plugins are available:
+Green Glamour is an online interior plant selling website. It allows users to browse and purchase a wide variety of indoor plants, as well as pots and other accessories.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+
+Browse a wide variety of indoor plants, including popular plants like succulents, cacti, and air plants.
+
+Read detailed descriptions of each plant, including its care requirements and light needs.
+
+Purchase plants online and have them delivered to your door.
+
+Shop for pots, planters, and other accessories to complement your plants.
+
+
+## License:
+
+The Green Glamour website is licensed under the MIT License.
